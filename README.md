@@ -2,7 +2,9 @@
 성균관대학교 소프트웨어학과 18학번 서정엽입니다.
 
 ## 💡 프로젝트
-
+<details>
+<summary>History</summary>
+<div markdown="1">
 ### [2021.06.07 ~ 2021.12.10] 산학협력프로젝트 - 아르스프락시아
 
 Scrapy 크롤러 개발 및 모니터링 시스템 개발
@@ -43,6 +45,8 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 <img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=white"/>
 
 ------------
+</div>
+</details>
 
 ### [2022.10.01 ~ 현재] 성균관대학교 SSA 
 
@@ -51,12 +55,9 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 
 <img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
 
-
-------------
-
 ## ✏️ 수강 전공
 <details>
-<summary>펼치기</summary>
+<summary>History</summary>
 <div markdown="1">
 
 |     학기      |  학수번호  |                  강좌              | 비고 |
@@ -87,11 +88,13 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 |  2022 2학기   |  SWE3051  |             컴퓨터비전개론             | |
 |  2022 2학기   |  SWE3052  |             심층신경망개론             | |
 |  2022 2학기   |  SWE3053  |                HCI개론                 | |
+</div>
+</details>
+
+|     학기      |  학수번호  |                  강좌              | 비고 |
+|:------------:|:---------:|:----------------------------------:|:----:|
 |  2023 1학기   |  CSE3036  |            컴퓨터공학세미나            | C/L, P/F |
 |  2023 1학기   |  SWE3002  |           소프트웨어공학개론           | |
 |  2023 1학기   |  SWE3032  |            인공지능프로젝트            | |
 |  2023 1학기   |  SWE3050  |              기계학습원론              | |
 |  2023 1학기   |  ESW4006  |               정보시각화               | 대학원 |
-
-</div>
-</details>
