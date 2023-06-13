@@ -95,6 +95,6 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 |     학기      |  학수번호  |                  강좌              | 비고 |
 |:------------:|:---------:|:----------------------------------:|:----:|
 |  2023 1학기   |  CSE3036  |            컴퓨터공학세미나            | C/L, P/F |
-|  2023 1학기   |  SWE3002  |           소프트웨어공학개론           | |
-|  2023 1학기   |  SWE3032  |            인공지능프로젝트            | |
-|  2023 1학기   |  ESW4006  |               정보시각화               | 학석공통 |
+|  2023 1학기   |  SWE3002  |           소프트웨어공학개론           | [BePro - OpenAI API](https://github.com/skkuse/2023spring_41class_team10) |
+|  2023 1학기   |  SWE3032  |            인공지능프로젝트            | [YouTube Views Prediction](https://github.com/chaejin98330/AIP2023Spring_Team6) |
+|  2023 1학기   |  ESW4006  |               정보시각화               | [GitHubInfoVis](https://github.com/SeoJeongYeop/GitHubInfoVis) |
