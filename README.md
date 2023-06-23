@@ -1,6 +1,9 @@
 ## Hi there 👋
 성균관대학교 소프트웨어학과 18학번 서정엽입니다.
 
+![SeoJeongYeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJeongYeop&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJeongYeop&layout=compact&theme=dark)
+
 ## 💡 프로젝트
 <details>
 <summary>History</summary>
