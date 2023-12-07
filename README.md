@@ -13,7 +13,7 @@
 
 Scrapy 크롤러 개발 및 모니터링 시스템 개발
 
-<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
 
 ------------
 
@@ -38,7 +38,7 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 
 오픈소스 개발자 커뮤니티 개발 [SKKU-OSP](https://github.com/SKKU-OSP/SKKU-OSP)
 
-<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
 
 ------------
 
@@ -52,12 +52,21 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 </div>
 </details>
 
-### [2022.10.01 ~ 현재] 성균관대학교 SSA 
+### [2023.02.27 ~ 2023.11.22] 성균관대학교 소프트웨어학과 졸업작품
+
+속성기반 감성분석을 이용한 미디어 담론 분석 웹 애플리케이션 [ABSA-web-empath](https://github.com/SeoJeongYeop/ABSA-web-empath)
+
+
+<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-D3.js-%23F9A03C?logo=d3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-pytorch-%23EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle Cloud-%23F80000?logo=oracle&logoColor=white"/>
+
+------------
+
+### [2022.10.01 ~ 2023.11.30] 성균관대학교 SSA 
 
 오픈소스플랫폼 팀 [SKKU-OSP](https://github.com/SKKU-OSP/SKKU-OSP)
 
 
-<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-React-%230074A6?logo=react&logoColor=white"/>
 
 ## ✏️ 수강 전공
 <details>
@@ -92,12 +101,9 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 |  2022 2학기   |  SWE3051  |             컴퓨터비전개론             | |
 |  2022 2학기   |  SWE3052  |             심층신경망개론             | |
 |  2022 2학기   |  SWE3053  |                HCI개론                 | |
-</div>
-</details>
-
-|     학기      |  학수번호  |                  강좌              | 비고 |
-|:------------:|:---------:|:----------------------------------:|:----:|
 |  2023 1학기   |  CSE3036  |            컴퓨터공학세미나            | C/L, P/F |
 |  2023 1학기   |  SWE3002  |           소프트웨어공학개론           | [BePro - OpenAI API](https://github.com/skkuse/2023spring_41class_team10) |
 |  2023 1학기   |  SWE3032  |            인공지능프로젝트            | [YouTube Views Prediction](https://github.com/chaejin98330/AIP2023Spring_Team6) |
 |  2023 1학기   |  ESW4006  |               정보시각화               | [GitHubInfoVis](https://github.com/SeoJeongYeop/GitHubInfoVis) |
+</div>
+</details>
