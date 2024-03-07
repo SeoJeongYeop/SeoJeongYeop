@@ -1,36 +1,30 @@
 ## Hi there 👋
+
 성균관대학교 소프트웨어학과 18학번 서정엽입니다.
 
-![SeoJeongYeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJeongYeop&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJeongYeop&layout=compact&theme=dark)
-
 ## 💡 프로젝트
-<details>
-<summary>History</summary>
-<div markdown="1">
 
-### [2021.06.07 ~ 2021.12.10] 산학협력프로젝트 - 아르스프락시아
+### [2022.10.01 ~ 2023.11.30] 성균관대학교 SSA
 
-Scrapy 크롤러 개발 및 모니터링 시스템 개발
+오픈소스플랫폼 팀 [SKKU-OSP](https://github.com/SKKU-OSP/SKKU-OSP)
 
-<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-React-%230074A6?logo=react&logoColor=white"/>
 
 ------------
 
-### [2021.10.07 ~ 2021.12.07] 오픈소스 KPI 관리 프로젝트
+### [2023.02.27 ~ 2023.11.22] 성균관대학교 소프트웨어학과 졸업작품
 
-GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://github.com/SeoJeongYeop/OSSCA)
+속성기반 감성분석을 이용한 미디어 담론 분석 웹 애플리케이션 [ABSA-web-empath](https://github.com/SeoJeongYeop/ABSA-web-empath)
 
-<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-%23339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Pug-%23A86454?logo=Pug&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-D3.js-%23F9A03C?logo=d3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-pytorch-%23EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle Cloud-%23F80000?logo=oracle&logoColor=white"/>
 
 ------------
 
-### [2021.12.13 ~ 2022.02.11] 동계현장실습 - YG엔터테인먼트 
+### [2022.12.20 ~ 2023.02.15] SKKU SW Coach 2022 Winter 스프링부트
 
-개체명인식기 속성기반 감성분석
+팀 빌딩 게시판 개발 [teamBuildingBoard](https://github.com/SeoJeongYeop/teamBuildingBoard)
 
-<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-%23F37626?logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=white"/>
 
 ------------
 
@@ -42,33 +36,32 @@ GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://git
 
 ------------
 
-### [2022.12.20 ~ 2023.02.15] SKKU SW Coach 2022 Winter 스프링부트 
+### [2021.12.13 ~ 2022.02.11] 동계현장실습 - YG엔터테인먼트
 
-팀 빌딩 게시판 개발 [teamBuildingBoard](https://github.com/SeoJeongYeop/teamBuildingBoard)
+개체명인식기 속성기반 감성분석
 
-<img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=white"/>
-
-------------
-</div>
-</details>
-
-### [2023.02.27 ~ 2023.11.22] 성균관대학교 소프트웨어학과 졸업작품
-
-속성기반 감성분석을 이용한 미디어 담론 분석 웹 애플리케이션 [ABSA-web-empath](https://github.com/SeoJeongYeop/ABSA-web-empath)
-
-
-<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-D3.js-%23F9A03C?logo=d3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-pytorch-%23EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle Cloud-%23F80000?logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-%23F37626?logo=Jupyter&logoColor=white"/>
 
 ------------
 
-### [2022.10.01 ~ 2023.11.30] 성균관대학교 SSA 
+### [2021.10.07 ~ 2021.12.07] 오픈소스 KPI 관리 프로젝트
 
-오픈소스플랫폼 팀 [SKKU-OSP](https://github.com/SKKU-OSP/SKKU-OSP)
+GitHub 크롤링 데이터 기반 데이터 시각화 개발 [OSSCA](https://github.com/SeoJeongYeop/OSSCA)
 
+<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-%23339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Pug-%23A86454?logo=Pug&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Chart.js-%23FF6384?logo=chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-React-%230074A6?logo=react&logoColor=white"/>
+------------
+
+### [2021.06.07 ~ 2021.12.10] 산학협력프로젝트 - 아르스프락시아
+
+Scrapy 크롤러 개발 및 모니터링 시스템 개발
+
+<img src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Scrapy-%2360A839?logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=Mysql&logoColor=white"/>
+
+------------
 
 ## ✏️ 수강 전공
+
 <details>
 <summary>History</summary>
 <div markdown="1">
